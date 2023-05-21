@@ -1,0 +1,7 @@
+Registration complete
+Your API key is: 66d48125b02144228f5de9c3021802ef
+
+For help getting started please look at our getting started guide.
+
+We post API status updates and other news on our Twitter feed, so please follow us there if that's important to you:
+

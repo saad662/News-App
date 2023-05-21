@@ -1,0 +1,149 @@
+{
+    "status": "ok",
+    "totalResults": 12,
+    "articles": [
+        {
+            "source": {
+                "id": "news-com-au",
+                "name": "News.com.au"
+            },
+            "author": null,
+            "title": "Bombshell axing stuns football world",
+            "description": "<p>Thomas Tuchel has been sacked by Chelsea following their shock Champions League defeat away at Dinamo Zagreb.</p>",
+            "url": "https://www.news.com.au/sport/football/chelsea-stun-football-world-after-new-owners-axe-thomas-tuchel/news-story/bfc39bd49f388ec97e44d47485cbf1f9",
+            "urlToImage": "https://content.api.news/v3/images/bin/7e75ec50d5087a8f30925da4e21183cc",
+            "publishedAt": "2022-09-07T09:43:00Z",
+            "content": "Thomas Tuchel has been sacked by Chelsea following their shock Champions League defeat away at Dinamo Zagreb.\r\nChelsea owner Todd Boehly has shown he is just as ruthless as predecessor Roman Abramovi… [+2139 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ryan Giggs faces retrial after previous jury discharged",
+            "description": "The ex-Manchester United footballer is to face a retrial on domestic violence charges, judge rules.",
+            "url": "http://www.bbc.co.uk/news/uk-wales-62806864",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1A98/production/_126280860_6bd9aa54-fd2e-4f37-ad1d-650a25ae8bcd.jpg",
+            "publishedAt": "2022-09-07T09:37:28.9561519Z",
+            "content": "Former Manchester United footballer Ryan Giggs is to face a retrial, a judge has ruled.\r\nThe judge set a new trial date of 31 July next year at a short hearing on Wednesday at Manchester Crown Court.… [+412 chars]"
+        },
+        {
+            "source": {
+                "id": "four-four-two",
+                "name": "FourFourTwo"
+            },
+            "author": "PA Staff",
+            "title": "Football rumours: Wolves look to former England striker Andy Carroll",
+            "description": "The Telegraph reports Wolves are looking at 33-year-old free agent and former England striker Andy Carroll if they fail to sign Diego Costa due to the refusal of a work permit.",
+            "url": "https://www.fourfourtwo.com/news/football-rumours-wolves-look-to-former-england-striker-andy-carroll-1662530746000",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/XUWLpnteymv5jsDtwsftYe-1200-80.jpg",
+            "publishedAt": "2022-09-07T06:05:46Z",
+            "content": "What the papers say\r\nThe Telegraph reports Wolves are looking at 33-year-old free agent and former England striker Andy Carroll if they fail to sign Diego Costa due to the refusal of a work permit.\r\n… [+983 chars]"
+        },
+        {
+            "source": {
+                "id": "the-irish-times",
+                "name": "The Irish Times"
+            },
+            "author": "Gordon Manning",
+            "title": "Kerry lead football All Star nominations with 12 but Galway have two of the three on FOTY shortlist",
+            "description": "David Clifford faces a challenge from Shane Walsh and Cillian McDaid for Footballer of the Year",
+            "url": "https://www.irishtimes.com/sport/gaelic-games/2022/09/07/kerry-lead-football-all-star-nominations-with-12-but-galway-have-two-of-the-three-on-foty-shortlist/",
+            "urlToImage": "https://www.irishtimes.com/resizer/9k7d0bz42nCO-FEl7luedcWMs-s=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/OENSPFNBWDBDSZHHZFDE53NGCQ.jpg",
+            "publishedAt": "2022-09-07T06:00:00Z",
+            "content": "All-Ireland champions Kerry have 12 players included in the 2022 PwC GAA football All Stars nominations list.\r\nHowever, David Clifford is the only Kerry nominee for Footballer of the Year with Galway… [+5775 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-uk",
+                "name": "Google News (UK)"
+            },
+            "author": "George Lythgoe, Adam Everett",
+            "title": "Ex-England footballer Faye Dunn jailed after Manchester Airport drug sting",
+            "description": "Faye Dunn is said to have 'played a leading role' within the crime gang",
+            "url": "https://www.manchestereveningnews.co.uk/news/pro-footballer-mum-turned-drug-24948258",
+            "urlToImage": "https://i2-prod.manchestereveningnews.co.uk/incoming/article24667555.ece/ALTERNATES/s1200/1_lec_tdr_180622dunn.jpg",
+            "publishedAt": "2022-09-07T05:37:53+00:00",
+            "content": "A former England footballer has been jailed after her million pound cannabis trafficking operation was rumbled at Manchester Airport.\r\n Faye Dunn, a successful businesswoman who worked as an accounta… [+10130 chars]"
+        },
+        {
+            "source": {
+                "id": "four-four-two",
+                "name": "FourFourTwo"
+            },
+            "author": "PA Staff",
+            "title": "WSL season begins following momentous summer for English women’s football",
+            "description": "The 12th edition of the Women’s Super League gets under way this weekend amid an unprecedented sense of buzz and excitement following England’s momentous summer.",
+            "url": "https://www.fourfourtwo.com/news/wsl-season-begins-following-momentous-summer-for-english-womens-football-1662526849000",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/mdTf8eaQLCipyu7djs8rsi-1200-80.jpg",
+            "publishedAt": "2022-09-07T05:00:49Z",
+            "content": "The 12th edition of the Women’s Super League gets under way this weekend amid an unprecedented sense of buzz and excitement following England’s momentous summer.\r\nThe journey of growth the English wo… [+3846 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Courtney CroninESPN Staff Writer ",
+            "title": "Chicago Bears' conceptual plans for 326-acre property includes construction of domed stadium",
+            "description": "The Chicago Bears released their conceptual plans on Tuesday for the development of the 326-acre Arlington Park property, which includes the construction of a domed stadium that could house \"the Super Bowl, College Football Playoff and Final Four.\"",
+            "url": "http://espn.go.com/nfl/story/_/id/34536485/chicago-bears-conceptual-plans-326-acre-property-includes-construction-domed-stadium",
+            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0906%2Fr1058094_1280x720_16%2D9.jpg",
+            "publishedAt": "2022-09-06T19:37:00Z",
+            "content": "LAKE FOREST, Ill. -- The Chicago Bears released their conceptual plans on Tuesday for the development of the 326-acre Arlington Park property, which includes the construction of a domed stadium.\r\nIn … [+2466 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": "FOX Sports",
+            "title": "CFP expansion to 12 teams a big win for college football",
+            "description": "The College Football Playoff is set to expand to a 12-team format. Joel Klatt explains why that is a major win for the sport.",
+            "url": "http://www.foxsports.com/stories/college-football/cfp-expansion-to-12-teams-a-big-win-for-college-football",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/09/1408/814/09.06.22_College-Football-Playoff-expansion-will-lead-to-much-needed-parity_16x9-1.jpg?ve=1&tl=1",
+            "publishedAt": "2022-09-06T18:13:37Z",
+            "content": "FOX Sports college football\r\n analyst Joel Klatt has been a strong advocate for expanding the College Football Playoff field, so when news broke last week that the CFP Board of Managers had approved … [+2938 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": "Alex Kay",
+            "title": "Fantasy Football Week 1 Waiver Wire: Best Adds to Kick Off 2022 Season",
+            "description": "The 2022 NFL season kicks off this week, making it the time\nto get your fantasy lineup in tip-top shape to start a championship push. The fantasy landscape has...",
+            "url": "https://bleacherreport.com/articles/10047794-fantasy-football-week-1-waiver-wire-best-adds-to-kick-off-2022-season",
+            "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1662408199/qwgrjrb5j10v4xzpkhpl.jpg",
+            "publishedAt": "2022-09-06T12:59:40Z",
+            "content": "Wesley Hitt/Getty Images\r\nThe 2022 NFL season kicks off this week, making it time\r\nto get your fantasy lineup in tip-top shape to start a championship push.\r\nThe fantasy landscape has changed since m… [+1332 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Tristan Greene",
+            "title": "Forget chess, DeepMind's training its new AI to play football",
+            "description": "Researchers from DeepMind, the UK's juggernaut AI lab, have forsaken the noble games of chess and Go for a more plebeian delight: football.\r\n\r\nThe Google sister company yesterday published ...",
+            "url": "http://thenextweb.com/news/forget-chess-deepminds-training-new-ai-play-football",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F09%2Fdeepmindfootball.jpg&signature=c9c7547e41dd0811817adb1b56c4a07d",
+            "publishedAt": "2022-09-01T22:09:19Z",
+            "content": "Researchers from DeepMind, the UKs juggernaut AI lab, have forsaken the noble games of chess and Go for a more plebeian delight: football.\r\nThe Google sister company yesterday published a research pa… [+3647 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+            "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+            "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+            "publishedAt": "2020-04-27T07:20:43Z",
+            "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+        }
+    ]
+}
